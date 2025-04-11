@@ -12,6 +12,4 @@
 3. 提示词：给我来点自愈的内容，分析这些内容，并转换成美观的网页展示，要求每个字段都必须得到展示。 
 
 ## 示例
-<video id="video" controls="" preload="none" poster="小姐姐" autoplay="" width="100%">
-    <source id="mp4" src="assets/1.mp4" type="video/mp4">
-</videos>
+![](./assets/1.gif)
